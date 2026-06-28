@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sarthakkaushik927&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/><br/>
-  <a href="https://drive.google.com/file/d/1IouADpD2DtX2MLdHRhrr0QclHpQ5Nkhq/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/15ZgnfMA3m8CNta0bQkCVWhXwFoU1XM1N/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/sarthak-sharma-323652318" target="_blank">
