@@ -281,35 +281,35 @@
       </rect>
     </g>
     <g>
-    <rect x="46" y="652" width="616" height="118" rx="12" fill="rgba(255,255,255,0.78)" stroke="rgba(157,23,111,0.22)" stroke-width="1"/>
-    <circle cx="64" cy="670" r="4.5" fill="#ff6159"/>
-    <circle cx="80" cy="670" r="4.5" fill="#ffbd2e"/>
-    <circle cx="96" cy="670" r="4.5" fill="#28c840"/>
-    <text x="572" y="674" font-family="'JetBrains Mono',monospace" font-size="11" fill="#6b4e8f">buildDreams.js</text>
+    <rect x="46" y="640" width="616" height="94" rx="12" fill="rgba(255,255,255,0.78)" stroke="rgba(157,23,111,0.22)" stroke-width="1"/>
+    <circle cx="64" cy="654" r="4.5" fill="#ff6159"/>
+    <circle cx="80" cy="654" r="4.5" fill="#ffbd2e"/>
+    <circle cx="96" cy="654" r="4.5" fill="#28c840"/>
+    <text x="572" y="658" font-family="'JetBrains Mono',monospace" font-size="11" fill="#6b4e8f">buildDreams.js</text>
     <clipPath id="codeCliplight0">
-      <rect x="64" y="666" width="0" height="24">
+      <rect x="64" y="663" width="0" height="18">
         <animate attributeName="width" from="0" to="420" dur="0.55s" begin="6.20s" fill="freeze"/>
       </rect>
     </clipPath>
-    <text x="64" y="682" font-family="'JetBrains Mono',monospace" font-size="14.5" fill="#5b2a86" clip-path="url(#codeCliplight0)"><tspan fill="#c792ea">function</tspan> <tspan fill="#82aaff">buildDreams</tspan>() {</text>
+    <text x="64" y="677" font-family="'JetBrains Mono',monospace" font-size="13" fill="#5b2a86" clip-path="url(#codeCliplight0)"><tspan fill="#c792ea">function</tspan> <tspan fill="#82aaff">buildDreams</tspan>() {</text>
     <clipPath id="codeCliplight1">
-      <rect x="64" y="687" width="0" height="24">
+      <rect x="64" y="681" width="0" height="18">
         <animate attributeName="width" from="0" to="420" dur="0.55s" begin="6.55s" fill="freeze"/>
       </rect>
     </clipPath>
-    <text x="64" y="703" font-family="'JetBrains Mono',monospace" font-size="14.5" fill="#5b2a86" clip-path="url(#codeCliplight1)">&#160;&#160;<tspan fill="#c792ea">return</tspan> code + coffee</text>
+    <text x="64" y="695" font-family="'JetBrains Mono',monospace" font-size="13" fill="#5b2a86" clip-path="url(#codeCliplight1)">&#160;&#160;<tspan fill="#c792ea">return</tspan> code + coffee</text>
     <clipPath id="codeCliplight2">
-      <rect x="64" y="708" width="0" height="24">
+      <rect x="64" y="699" width="0" height="18">
         <animate attributeName="width" from="0" to="420" dur="0.55s" begin="6.90s" fill="freeze"/>
       </rect>
     </clipPath>
-    <text x="64" y="724" font-family="'JetBrains Mono',monospace" font-size="14.5" fill="#5b2a86" clip-path="url(#codeCliplight2)">&#160;&#160;&#160;&#160;.<tspan fill="#82aaff">ship</tspan>();</text>
+    <text x="64" y="713" font-family="'JetBrains Mono',monospace" font-size="13" fill="#5b2a86" clip-path="url(#codeCliplight2)">&#160;&#160;&#160;&#160;.<tspan fill="#82aaff">ship</tspan>();</text>
     <clipPath id="codeCliplight3">
-      <rect x="64" y="729" width="0" height="24">
+      <rect x="64" y="717" width="0" height="18">
         <animate attributeName="width" from="0" to="420" dur="0.55s" begin="7.25s" fill="freeze"/>
       </rect>
     </clipPath>
-    <text x="64" y="745" font-family="'JetBrains Mono',monospace" font-size="14.5" fill="#5b2a86" clip-path="url(#codeCliplight3)">}</text>
+    <text x="64" y="731" font-family="'JetBrains Mono',monospace" font-size="13" fill="#5b2a86" clip-path="url(#codeCliplight3)">}</text>
   </g>
     <g transform="translate(760,58)">
     <text x="0" y="0" font-family="'Pacifico','Brush Script MT',cursive" font-size="26" fill="none" stroke="#f472b6" stroke-width="2" opacity="0.15">KEEP CODING KEEP GROWING</text>
