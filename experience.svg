@@ -1,0 +1,97 @@
+<svg width="940" height="430" viewBox="0 0 940 430" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#150826"/><stop offset="100%" stop-color="#1f0d38"/>
+  </linearGradient>
+  <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ec4899"/><stop offset="100%" stop-color="#8b5cf6"/>
+  </linearGradient>
+  <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ec4899"/><stop offset="100%" stop-color="#8b5cf6"/>
+  </linearGradient>
+  <linearGradient id="shineGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="48%" stop-color="#fff" stop-opacity=".42"/>
+    <stop offset="52%" stop-color="#fff" stop-opacity=".42"/>
+    <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="shell"><rect width="940" height="430" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#shell)">
+<rect width="940" height="430" fill="url(#bgGrad)"/>
+<circle cx="870" cy="40" r="150" fill="#ec4899" opacity=".06">
+ <animate attributeName="r" values="130;170;130" dur="8s" repeatCount="indefinite"/>
+ <animate attributeName="opacity" values=".04;.09;.04" dur="6s" repeatCount="indefinite"/>
+</circle>
+<text x="20" y="30" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="15" font-weight="700" fill="#f5ecff">Experience &amp; Education &#8226; sarthakkaushik927</text>
+<line x1="20" y1="40" x2="920" y2="40" stroke="#ec4899" stroke-opacity=".3"/>
+
+<!-- timeline -->
+<line x1="76" y1="74" x2="76" y2="390" stroke="url(#accentGrad)" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+<g filter="url(#glow)">
+ <circle cx="76" cy="92" r="8" fill="#150826" stroke="#ec4899" stroke-width="3">
+  <animate attributeName="r" values="7;10;7" dur="2.2s" repeatCount="indefinite"/>
+ </circle>
+</g>
+<circle cx="76" cy="215" r="8" fill="#150826" stroke="#8b5cf6" stroke-width="3"/>
+<circle cx="76" cy="338" r="8" fill="#150826" stroke="#ec4899" stroke-width="3"/>
+
+<!-- item 1 -->
+<g opacity="0">
+ <animate attributeName="opacity" from="0" to="1" dur=".45s" begin=".25s" fill="freeze"/>
+ <animateTransform attributeName="transform" type="translate" from="0,18" to="0,0" dur=".45s" begin=".25s" fill="freeze"/>
+ <text x="100" y="86" font-family="'JetBrains Mono',monospace" font-size="9.5" letter-spacing="1.5" fill="#a78bfa">2026 &#8226; EXPERIENCE</text>
+ <text x="100" y="111" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#f5ecff">Web Development Intern</text>
+ <text x="100" y="132" font-family="'JetBrains Mono',monospace" font-size="11" fill="#f9a8d4">Kalvix Nexus</text>
+ <text x="100" y="153" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#c9b6e6">Building practical web experiences and shipping frontend-focused work.</text>
+ <rect x="100" y="168" width="67" height="22" rx="11" fill="#ec4899" fill-opacity=".12" stroke="#ec4899" stroke-opacity=".4"/>
+ <text x="133.5" y="183" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10" fill="#f5ecff">REACT</text>
+ <rect x="175" y="168" width="76" height="22" rx="11" fill="#8b5cf6" fill-opacity=".12" stroke="#8b5cf6" stroke-opacity=".4"/>
+ <text x="213" y="183" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10" fill="#f5ecff">WEB DEV</text>
+</g>
+
+<!-- item 2 -->
+<g opacity="0">
+ <animate attributeName="opacity" from="0" to="1" dur=".45s" begin=".5s" fill="freeze"/>
+ <animateTransform attributeName="transform" type="translate" from="0,18" to="0,0" dur=".45s" begin=".5s" fill="freeze"/>
+ <text x="100" y="209" font-family="'JetBrains Mono',monospace" font-size="9.5" letter-spacing="1.5" fill="#a78bfa">2026 &#8226; CAMPUS</text>
+ <text x="100" y="234" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#f5ecff">Photography &amp; Media</text>
+ <text x="100" y="255" font-family="'JetBrains Mono',monospace" font-size="11" fill="#f9a8d4">AKGEC &#8226; Photographer</text>
+ <text x="100" y="276" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#c9b6e6">Event coverage, visual storytelling and creative media production.</text>
+ <rect x="100" y="291" width="110" height="22" rx="11" fill="#ec4899" fill-opacity=".12" stroke="#ec4899" stroke-opacity=".4"/>
+ <text x="155" y="306" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10" fill="#f5ecff">PHOTOGRAPHY</text>
+</g>
+
+<!-- item 3 -->
+<g opacity="0">
+ <animate attributeName="opacity" from="0" to="1" dur=".45s" begin=".75s" fill="freeze"/>
+ <animateTransform attributeName="transform" type="translate" from="0,18" to="0,0" dur=".45s" begin=".75s" fill="freeze"/>
+ <text x="100" y="332" font-family="'JetBrains Mono',monospace" font-size="9.5" letter-spacing="1.5" fill="#a78bfa">CURRENT &#8226; EDUCATION</text>
+ <text x="100" y="357" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#f5ecff">B.Tech Computer Science</text>
+ <text x="100" y="378" font-family="'JetBrains Mono',monospace" font-size="11" fill="#f9a8d4">Ajay Kumar Garg Engineering College</text>
+ <text x="100" y="399" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#c9b6e6">2nd Year &#8226; CS3</text>
+</g>
+
+<!-- right info panel -->
+<rect x="620" y="72" width="282" height="318" rx="14" fill="#1a0c30" stroke="#ec4899" stroke-opacity=".28"/>
+<rect x="620" y="72" width="5" height="318" fill="url(#barGrad)"/>
+<text x="645" y="104" font-family="'JetBrains Mono',monospace" font-size="10" letter-spacing="1.5" fill="#a78bfa">CURRENT FOCUS</text>
+<text x="645" y="135" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#f5ecff">Full-stack web</text>
+<text x="645" y="162" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#f5ecff">DSA &amp; C++</text>
+<text x="645" y="189" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#f5ecff">Modern UI</text>
+<text x="645" y="216" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#f5ecff">AI-powered apps</text>
+<line x1="645" y1="239" x2="875" y2="239" stroke="#ec4899" stroke-opacity=".18"/>
+<text x="645" y="267" font-family="'JetBrains Mono',monospace" font-size="10" letter-spacing="1.5" fill="#a78bfa">BUILD LOOP</text>
+<text x="645" y="294" font-family="'JetBrains Mono',monospace" font-size="12" fill="#c9b6e6">BUILD</text>
+<text x="700" y="294" font-family="'JetBrains Mono',monospace" font-size="12" fill="#ec4899">&#8594;</text>
+<text x="720" y="294" font-family="'JetBrains Mono',monospace" font-size="12" fill="#c9b6e6">DEBUG</text>
+<text x="778" y="294" font-family="'JetBrains Mono',monospace" font-size="12" fill="#ec4899">&#8594;</text>
+<text x="798" y="294" font-family="'JetBrains Mono',monospace" font-size="12" fill="#c9b6e6">SHIP</text>
+<text x="645" y="330" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#c9b6e6">Always learning. Always building.</text>
+<rect x="645" y="350" width="215" height="2" rx="1" fill="#ec4899" fill-opacity=".22"/>
+<rect x="-120" y="55" width="55" height="370" fill="url(#shineGrad)" transform="rotate(18 0 0)">
+ <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0;1120,0" dur="5s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>
