@@ -1,14 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1">
-  <img alt="Sarthak Sharma banner" src="./assets/banner.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img alt="Sarthak Sharma banner" src="./banner.svg?v=1" width="100%">
 </picture>
 
 <br>
 
-<img src="./assets/lanyard.svg?v=1" width="230" alt="Sarthak Sharma ID badge">
+<img src="./lanyard.svg?v=1" width="230" alt="Sarthak Sharma ID badge">
 
 <br><br>
 
@@ -52,14 +52,14 @@
 <br>
 
 <div align="center">
-  <img src="./assets/stats.svg?v=1" width="49%" alt="GitHub stats">
-  <img src="./assets/langs.svg?v=1" width="49%" alt="Most used languages">
+  <img src="./stats.svg?v=1" width="49%" alt="GitHub stats">
+  <img src="./langs.svg?v=1" width="49%" alt="Most used languages">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/trophies.svg?v=1" width="100%" alt="GitHub trophies">
+  <img src="./trophies.svg?v=1" width="100%" alt="GitHub trophies">
 </div>
 
 <br>
