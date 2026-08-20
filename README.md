@@ -6,7 +6,9 @@
   <img alt="Sarthak Sharma banner" src="./banner.svg?v=2" width="100%">
 </picture>
 
-<img src="./lanyard.svg?v=2" width="170" alt="Sarthak Sharma ID badge">
+<img src="./lanyard.svg?v=2" width="150" align="left" alt="Sarthak Sharma ID badge">
+
+<br clear="left">
 
 [![GitHub followers](https://img.shields.io/github/followers/sarthakkaushik927?label=Follow&style=for-the-badge&color=ec4899&labelColor=1a0b2e)](https://github.com/sarthakkaushik927)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e)](https://linkedin.com/in/sarthak-sharma-323652318)
