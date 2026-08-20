@@ -1,0 +1,79 @@
+<svg width="480" height="220" viewBox="0 0 480 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#150826"/>
+      <stop offset="100%" stop-color="#1f0d38"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="shineGrad2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <clipPath id="shell"><rect x="0" y="0" width="480" height="220" rx="16"/></clipPath>
+  <g clip-path="url(#shell)">
+    <rect x="0" y="0" width="480" height="220" fill="url(#bgGrad)"/>
+    <text x="20" y="30" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="15" font-weight="700" fill="#f5ecff">sarthakkaushik927 &#8226; GitHub Stats</text>
+    <line x1="20" y1="40" x2="460" y2="40" stroke="#ec4899" stroke-opacity="0.3"/>
+    
+    <circle cx="80" cy="128" r="46" fill="none" stroke="#2a1445" stroke-width="10"/>
+    <circle cx="80" cy="128" r="46" fill="none" stroke="url(#ringGrad)" stroke-width="10" stroke-linecap="round"
+      stroke-dasharray="248.6 289.0" transform="rotate(-90 80 128)" stroke-dashoffset="248.6">
+      <animate attributeName="stroke-dashoffset" from="248.6" to="0" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
+    </circle>
+    <text x="80" y="135" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="26" font-weight="700" fill="#f5ecff" opacity="0">
+      A+
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
+    </text>
+<g transform="translate(178,68)" opacity="0">
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="40,0" to="0,0" dur="0.5s" begin="0.50s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.50s" fill="freeze"/>
+      <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#c9b6e6">Total Stars</text>
+      <text x="266" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">142</text>
+      <rect x="0" y="8" width="266" height="6" rx="3" fill="#2a1445"/>
+      <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#accentGrad)">
+        <animate attributeName="width" from="0" to="146" dur="0.9s" begin="0.65s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
+      </rect>
+    </g>
+    <g transform="translate(178,102)" opacity="0">
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="40,0" to="0,0" dur="0.5s" begin="0.65s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.65s" fill="freeze"/>
+      <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#c9b6e6">Total Commits</text>
+      <text x="266" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">1,860+</text>
+      <rect x="0" y="8" width="266" height="6" rx="3" fill="#2a1445"/>
+      <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#accentGrad)">
+        <animate attributeName="width" from="0" to="239" dur="0.9s" begin="0.80s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
+      </rect>
+    </g>
+    <g transform="translate(178,136)" opacity="0">
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="40,0" to="0,0" dur="0.5s" begin="0.80s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.80s" fill="freeze"/>
+      <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#c9b6e6">PRs Merged</text>
+      <text x="266" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">63</text>
+      <rect x="0" y="8" width="266" height="6" rx="3" fill="#2a1445"/>
+      <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#accentGrad)">
+        <animate attributeName="width" from="0" to="106" dur="0.9s" begin="0.95s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
+      </rect>
+    </g>
+    <g transform="translate(178,170)" opacity="0">
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="40,0" to="0,0" dur="0.5s" begin="0.95s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.95s" fill="freeze"/>
+      <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#c9b6e6">Repositories</text>
+      <text x="266" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">38</text>
+      <rect x="0" y="8" width="266" height="6" rx="3" fill="#2a1445"/>
+      <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#accentGrad)">
+        <animate attributeName="width" from="0" to="133" dur="0.9s" begin="1.10s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
+      </rect>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="478.5" height="218.5" rx="15.5" fill="none" stroke="#ec4899" stroke-opacity="0.35" stroke-width="1.5"/>
+</svg>
