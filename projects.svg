@@ -1,0 +1,207 @@
+<svg width="940" height="378" viewBox="0 0 940 378" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#150826"/>
+      <stop offset="100%" stop-color="#1f0d38"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="shineGrad2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <clipPath id="shell"><rect x="0" y="0" width="940" height="378" rx="16"/></clipPath>
+  <g clip-path="url(#shell)">
+    <rect x="0" y="0" width="940" height="378" fill="url(#bgGrad)"/>
+    <text x="20" y="30" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="15" font-weight="700" fill="#f5ecff">Projects &#8226; sarthakkaushik927</text>
+    <line x1="20" y1="40" x2="920" y2="40" stroke="#ec4899" stroke-opacity="0.3"/>
+    <g transform="translate(20.0,56)" opacity="0">
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="0,22" to="0,0" dur="0.5s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.35s" fill="freeze"/>
+
+      <clipPath id="pclip0"><rect x="0" y="0" width="288" height="288" rx="14"/></clipPath>
+      <g clip-path="url(#pclip0)">
+        <rect x="0" y="0" width="288" height="288" fill="#1a0c30"/>
+        <rect x="0" y="0" width="5" height="288" fill="url(#barGrad)"/>
+        <rect x="-160" y="-20" width="60" height="328" fill="url(#shineGrad2)" transform="rotate(20)">
+          <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 548,0" dur="3.4s" begin="1.60s" repeatCount="indefinite" calcMode="linear"/>
+        </rect>
+      </g>
+      <rect x="0.5" y="0.5" width="287" height="287" rx="14" fill="none" stroke="#ec4899" stroke-opacity="0.28" stroke-width="1.2"/>
+
+      <circle cx="34" cy="36" r="17" fill="#ec4899" fill-opacity="0.12"/>
+      <path transform="translate(24,26)" d="M12 2c1 3-2 4-2 7a4 4 0 0 0 8 0c0-1-0.5-2-1-3 2 1 3 3 3 6a6 6 0 0 1-12 0c0-4 2-6 4-10z" fill="url(#accentGrad)"/>
+
+      <text x="18" y="76" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#f5ecff">Fire Detection System</text>
+      <text x="18" y="96" font-family="'JetBrains Mono',monospace" font-size="10.8" fill="#c9b6e6">Real-time fire &amp; smoke monitoring platform</text>
+      <line x1="18" y1="112" x2="270" y2="112" stroke="#ec4899" stroke-opacity="0.2"/>
+
+      <text x="18" y="132" font-family="'JetBrains Mono',monospace" font-size="10" letter-spacing="1.5" fill="#a78bfa">STACK</text>
+      <g transform="translate(18,152)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.65s" fill="freeze"/>
+          <rect width="67" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="33" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">React.js</text>
+        </g>
+        <g transform="translate(93,152)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.71s" fill="freeze"/>
+          <rect width="80" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="40" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">Express.js</text>
+        </g>
+        <g transform="translate(181,152)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.77s" fill="freeze"/>
+          <rect width="73" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="37" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">Mapbox GL</text>
+        </g>
+        <g transform="translate(18,178)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.83s" fill="freeze"/>
+          <rect width="73" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="37" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">Socket.io</text>
+        </g>
+        <g transform="translate(99,178)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.89s" fill="freeze"/>
+          <rect width="54" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="27" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">OpenCV</text>
+        </g>
+
+      <line x1="18" y1="214" x2="270" y2="214" stroke="#ec4899" stroke-opacity="0.2"/>
+      <g transform="translate(18,230)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="11" fill="#c9b6e6">Alert latency</text>
+          <text x="252" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">&lt;1s</text>
+        </g>
+        <g transform="translate(18,254)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.00s" fill="freeze"/>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="11" fill="#c9b6e6">Data source</text>
+          <text x="252" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">NASA FIRMS</text>
+        </g>
+    </g>
+  <g transform="translate(326.0,56)" opacity="0">
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="0,22" to="0,0" dur="0.5s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/>
+
+      <clipPath id="pclip1"><rect x="0" y="0" width="288" height="288" rx="14"/></clipPath>
+      <g clip-path="url(#pclip1)">
+        <rect x="0" y="0" width="288" height="288" fill="#1a0c30"/>
+        <rect x="0" y="0" width="5" height="288" fill="url(#barGrad)"/>
+        <rect x="-160" y="-20" width="60" height="328" fill="url(#shineGrad2)" transform="rotate(20)">
+          <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 548,0" dur="3.4s" begin="1.90s" repeatCount="indefinite" calcMode="linear"/>
+        </rect>
+      </g>
+      <rect x="0.5" y="0.5" width="287" height="287" rx="14" fill="none" stroke="#ec4899" stroke-opacity="0.28" stroke-width="1.2"/>
+
+      <circle cx="34" cy="36" r="17" fill="#ec4899" fill-opacity="0.12"/>
+      <g transform="translate(24,26)" fill="none" stroke="url(#accentGrad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M7 4 L2 11 L7 18"/>
+          <path d="M17 4 L22 11 L17 18"/>
+        </g>
+
+      <text x="18" y="76" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#f5ecff">NextGen Assessment Systems</text>
+      <text x="18" y="96" font-family="'JetBrains Mono',monospace" font-size="10.8" fill="#c9b6e6">Scalable full-stack coding &amp; assessment platform</text>
+      <line x1="18" y1="112" x2="270" y2="112" stroke="#ec4899" stroke-opacity="0.2"/>
+
+      <text x="18" y="132" font-family="'JetBrains Mono',monospace" font-size="10" letter-spacing="1.5" fill="#a78bfa">STACK</text>
+      <g transform="translate(18,152)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.85s" fill="freeze"/>
+          <rect width="67" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="33" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">React 19</text>
+        </g>
+        <g transform="translate(93,152)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.91s" fill="freeze"/>
+          <rect width="80" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="40" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">TypeScript</text>
+        </g>
+        <g transform="translate(181,152)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.97s" fill="freeze"/>
+          <rect width="60" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="30" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">Node.js</text>
+        </g>
+        <g transform="translate(18,178)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.03s" fill="freeze"/>
+          <rect width="60" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="30" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">MongoDB</text>
+        </g>
+        <g transform="translate(86,178)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.09s" fill="freeze"/>
+          <rect width="47" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="24" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">Redis</text>
+        </g>
+        <g transform="translate(141,178)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.15s" fill="freeze"/>
+          <rect width="60" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="30" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">AWS ECS</text>
+        </g>
+
+      <line x1="18" y1="214" x2="270" y2="214" stroke="#ec4899" stroke-opacity="0.2"/>
+      <g transform="translate(18,230)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.10s" fill="freeze"/>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="11" fill="#c9b6e6">Concurrent sessions</text>
+          <text x="252" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">250+</text>
+        </g>
+        <g transform="translate(18,254)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.20s" fill="freeze"/>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="11" fill="#c9b6e6">Candidates</text>
+          <text x="252" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">300+</text>
+        </g>
+    </g>
+  <g transform="translate(632.0,56)" opacity="0">
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="0,22" to="0,0" dur="0.5s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.75s" fill="freeze"/>
+
+      <clipPath id="pclip2"><rect x="0" y="0" width="288" height="288" rx="14"/></clipPath>
+      <g clip-path="url(#pclip2)">
+        <rect x="0" y="0" width="288" height="288" fill="#1a0c30"/>
+        <rect x="0" y="0" width="5" height="288" fill="url(#barGrad)"/>
+        <rect x="-160" y="-20" width="60" height="328" fill="url(#shineGrad2)" transform="rotate(20)">
+          <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 548,0" dur="3.4s" begin="2.20s" repeatCount="indefinite" calcMode="linear"/>
+        </rect>
+      </g>
+      <rect x="0.5" y="0.5" width="287" height="287" rx="14" fill="none" stroke="#ec4899" stroke-opacity="0.28" stroke-width="1.2"/>
+
+      <circle cx="34" cy="36" r="17" fill="#ec4899" fill-opacity="0.12"/>
+      <path transform="translate(24,26)" d="M12 2 L21 6 V11 C21 17 17 20.5 12 22 C7 20.5 3 17 3 11 V6 Z" fill="none" stroke="url(#accentGrad)" stroke-width="2" stroke-linejoin="round"/>
+
+      <text x="18" y="76" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#f5ecff">Probation Portal</text>
+      <text x="18" y="96" font-family="'JetBrains Mono',monospace" font-size="10.8" fill="#c9b6e6">Trainee evaluation system for CCC AKGEC</text>
+      <line x1="18" y1="112" x2="270" y2="112" stroke="#ec4899" stroke-opacity="0.2"/>
+
+      <text x="18" y="132" font-family="'JetBrains Mono',monospace" font-size="10" letter-spacing="1.5" fill="#a78bfa">STACK</text>
+      <g transform="translate(18,152)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.05s" fill="freeze"/>
+          <rect width="60" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="30" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">Next.js</text>
+        </g>
+        <g transform="translate(86,152)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.11s" fill="freeze"/>
+          <rect width="87" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="43" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">Tailwind v4</text>
+        </g>
+        <g transform="translate(181,152)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.17s" fill="freeze"/>
+          <rect width="60" height="22" rx="11" fill="#ec4899" fill-opacity="0.12" stroke="#ec4899" stroke-opacity="0.4"/>
+          <text x="30" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#f5ecff">MongoDB</text>
+        </g>
+
+      <line x1="18" y1="188" x2="270" y2="188" stroke="#ec4899" stroke-opacity="0.2"/>
+      <g transform="translate(18,204)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.30s" fill="freeze"/>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="11" fill="#c9b6e6">Trainees tracked</text>
+          <text x="252" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">180+</text>
+        </g>
+        <g transform="translate(18,228)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.40s" fill="freeze"/>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="11" fill="#c9b6e6">Accuracy</text>
+          <text x="252" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#f5ecff">100%</text>
+        </g>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="938.5" height="376.5" rx="15.5" fill="none" stroke="#ec4899" stroke-opacity="0.35" stroke-width="1.5"/>
+</svg>
