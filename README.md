@@ -36,20 +36,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-1a0b2e?style=flat-square&logo=redis&logoColor=DC382D)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-1a0b2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-<img src="./stats.svg?v=4" width="49%" alt="GitHub stats">
 <img src="./langs.svg?v=4" width="49%" alt="Most used languages">
 
 <img src="./trophies.svg?v=4" width="100%" alt="GitHub trophies">
 
-### Contribution activity
 
-![Sarthak's contribution graph](https://ghchart.rshah.org/ec4899/sarthakkaushik927)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthakkaushik927/sarthakkaushik927/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthakkaushik927/sarthakkaushik927/output/github-snake-light.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sarthakkaushik927/sarthakkaushik927/output/github-snake.svg">
-</picture>
 
 <sub>Built by Sarthak Sharma &bull; last redesigned 2026</sub>
 
